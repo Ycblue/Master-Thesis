@@ -1,6 +1,6 @@
-# Master-Thesis
+# Synthesizing Pseudo CTs with Generative Adversarial Networks and X-Ray based a priori Information
 
-Synthesizing Pseudo CTs with Generative Adversarial Networks and X-Ray based a priori Information
+Master Thesis by Yu-Chia Lan 
 
 # Abstract
 
