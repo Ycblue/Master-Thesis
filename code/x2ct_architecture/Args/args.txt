@@ -1,0 +1,1 @@
+--batch_size 2 --min_epochs 1 --debug_mode True
